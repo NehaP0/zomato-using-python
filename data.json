@@ -1,0 +1,1 @@
+{"menu": {"1": {"dish_name": "Samosa", "price": 12.0, "availability": true}, "2": {"dish_name": "wadapao", "price": 12.0, "availability": true}}, "orders": {"ORD-1": {"customer_name": "Chintu", "dishes": ["Samosa"], "status": "received", "total_price": 12.0}}, "order_count": 1}
